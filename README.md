@@ -1,2 +1,2 @@
-# Git_cours
+# Git_Course
 my first repository
